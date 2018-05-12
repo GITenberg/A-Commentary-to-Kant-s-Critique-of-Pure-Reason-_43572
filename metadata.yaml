@@ -1,0 +1,32 @@
+_repo: A-Commentary-to-Kant-s-Critique-of-Pure-Reason-_43572
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43572-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Norman Kemp
+    aliases:
+    - Smith, Norman Duncan
+    - Smith, Kemp
+    - Smith, Norman D.
+    - Kemp Smith, Norman
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '42305'
+    url: http://www.gutenberg.org/2009/agents/42305
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Kemp_Smith
+description: ''
+gutenberg_issued: '2013-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kant, Immanuel, 1724-1804. Kritik der reinen Vernunft'
+- !lcc 'B'
+title: A Commentary to Kant's 'Critique of Pure Reason'
+url: http://www.gutenberg.org/ebooks/43572
